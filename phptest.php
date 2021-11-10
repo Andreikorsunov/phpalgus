@@ -49,6 +49,8 @@
     Korrutustabelis peab olema esimesel real ja veerul numbrid 1-10. <br>
     Teisel real esimese rea ja veeru korrustis jne.</p>
 <a href="405.php"> Ülesanne 405</a>
+
+<a href="moistatus.php">Mõistatus</a>
 <?php
 echo "<h1>Tere hommikust!</h1>";
 $tekst="Täna on esimene PHP tund";
