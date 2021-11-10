@@ -48,12 +48,13 @@
     Korrutustabel peab olema HTML tabeli sees.<br>
     Korrutustabelis peab olema esimesel real ja veerul numbrid 1-10. <br>
     Teisel real esimese rea ja veeru korrustis jne.</p>
+<a href="405.php"> Ülesanne 405</a>
 <?php
 echo "<h1>Tere hommikust!</h1>";
 $tekst="Täna on esimene PHP tund";
 echo $tekst;
 echo "<br>";
-echo "<h2>Matemaatka tehed. Mõistatus</h2>";
+echo "<h2>Matemaatika tehed. Mõistatus</h2>";
 echo "<h3>Arva ära kaks arvu!</h3>";
 $arv1=30;
 $arv2=10;
